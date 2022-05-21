@@ -87,3 +87,10 @@ GTAGS
 *.orig
 *~
 \#*#
+
+FlashBoot
+FlashData
+FlashHead
+UsbHead
+rk3566_ddr_1056MHz_u
+rk356x_usbplug_v1
